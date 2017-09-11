@@ -2,7 +2,7 @@
 
 A very simple ICMP echo program.
 
-Currently this will only compile for MacOS since the system headers for ICMP are not standardized.
+Currently this will only work on MacOS, since the syscall interface for ICMP is not completely standardized.
 
 ## usage
 
